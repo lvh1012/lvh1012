@@ -2,30 +2,32 @@
 <h3 align="center">A passionate developer</h3>
 
 <div align="center">
-    <a href="https://1999azzar.github.io/1999AZZAR/">
-        <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+    <a href="https://github.io/">
+    <img src="imgs/grid-snake.svg" alt="snake" />
+    </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lvh1012&label=Profile%20views&color=0e75b6&style=flat"
-        alt="lvh1012" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=lvh1012&label=Profile%20views&color=0e75b6&style=flat" alt="lvh1012" /> 
+</p>
 
 <a target="_blank" align="center">
-    <img align="right" top="500" height="300" width="400" alt="GIF"
-        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <img align="right" top="500" height="300" width="400" alt="GIF"src="imgs/giphy.gif">
 </a>
 
 ## :sassy_man: About me
+
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY
-RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com).
 - :nerd_face: Always `learning new things`
-<br>
+  <br>
 
 ## 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -52,6 +54,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 <br>
 
 ## 📊 GitHub Analytics
+
 <p align="center">
     <a href="https://github.com/lvh1012/">
         <p align="center">
@@ -64,12 +67,6 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
         </p>
     </a>
 </p>
-<br />
-<p align="center">
-    <a href="https://github.com/lvh1012"><img alt="lvh1012's Activity Graph"
-            src="https://activity-graph.herokuapp.com/graph?username=lvh1012&custom_title=lvh1012's%20Contribution%20Graph&theme=react-dark" /></a>
-</p>
-<br />
 
 ## 🤝🏻 &nbsp;Connect with Me
 
