@@ -28,29 +28,17 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio
-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
 
 ## 📊 GitHub Analytics
@@ -71,18 +59,8 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&log
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-    <a href="https://www.adityavsingh.com"><img
-            src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/AVS1508"><img
-            src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-    <a href="mailto:avsingh@umass.edu"><img
-            src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-    <a href="https://instagram.com/adityavs_"><img
-            src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
-    <a href="https://facebook.com/AVS1508"><img
-            src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
-    <a href="https://www.pinterest.ca/AVS1508"><img
-            src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white" /></a>
-    <a href="https://www.behance.net/AVS1508"><img
-            src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/hoanglv/"><img
+            src="https://img.shields.io/badge/-hoanglv-0077B5?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiMyQTdBQjk7fQo8L3N0eWxlPjxnPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yNzMsMjMzLjh2LTAuN2MtMC4xLDAuMi0wLjMsMC41LTAuNSwwLjdIMjczeiIvPjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00NDcuNywyOS42SDY0LjJDNDUuOSwyOS42LDMxLDQ0LjEsMzEsNjJ2Mzg4YzAsMTcuOSwxNC45LDMyLjQsMzMuMiwzMi40aDM4My41YzE4LjQsMCwzMy4zLTE0LjUsMzMuMy0zMi40ICAgVjYyQzQ4MSw0NC4xLDQ2Ni4xLDI5LjYsNDQ3LjcsMjkuNnogTTE2Ny40LDQwOC43aC02OFYyMDQuMmg2OFY0MDguN3ogTTEzMy40LDE3Ni4ySDEzM2MtMjIuOCwwLTM3LjUtMTUuNy0zNy41LTM1LjMgICBjMC0yMC4xLDE1LjItMzUuMywzOC40LTM1LjNjMjMuMywwLDM3LjYsMTUuMywzOCwzNS4zQzE3MS45LDE2MC41LDE1Ny4xLDE3Ni4yLDEzMy40LDE3Ni4yeiBNNDEyLjUsNDA4LjdoLTY4VjI5OS4yICAgYzAtMjcuNS05LjgtNDYuMi0zNC40LTQ2LjJjLTE4LjgsMC0zMCwxMi42LTM0LjksMjQuOWMtMS44LDQuNC0yLjIsMTAuNS0yLjIsMTYuNnYxMTQuMmgtNjhjMCwwLDAuOS0xODUuMywwLTIwNC41aDY4djI4LjkgICBjOS0xMy45LDI1LjItMzMuOCw2MS4zLTMzLjhjNDQuNywwLDc4LjIsMjkuMiw3OC4yLDkyLjFWNDA4Ljd6Ii8+PC9nPjwvc3ZnPg==" /></a>
+    <a href="mailto:lehoang99.18xt@gmail.com"><img
+            src="https://img.shields.io/badge/-lehoang99.18xt-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
